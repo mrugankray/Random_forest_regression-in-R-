@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528335865060.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3570032891",
+    "id" : "60F2002C",
+    "lastKnownWriteTime" : 1528341067,
+    "last_content_update" : 1528341067436,
+    "path" : "/media/mrugank/626CB0316CB00239/for development purpose only/R/machine learning/Random tree regression/random_tree_regression.R",
+    "project_path" : "random_tree_regression.R",
+    "properties" : {
+        "cursorPosition" : "10,19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
